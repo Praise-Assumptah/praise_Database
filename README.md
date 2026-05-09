@@ -1,1 +1,1 @@
-this project is about hospital management system. it is summarized and explained on youtube , here is the link "https://youtu.be/HjjZWRyICMk" .please enjoy and your encouraged to use a such system for your hospital.
+this project is about hospital management system. it is summarized and explained on youtube , here is the link   " https://youtu.be/JpEkC1Lmo5k" .please enjoy and your encouraged to use a such system for your hospital.
